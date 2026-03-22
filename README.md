@@ -1,6 +1,6 @@
 # 📚 Notas de Aula — Macroeconomia II
 
-Repositório de resumos e notas de aula da disciplina **Macroeconomia II** do Programa de Pós-Graduação em Economia (PPGE/UFPB), cursada em 2025.
+Repositório de resumos e notas de aula da disciplina **Macroeconomia II** do Programa de Pós-Graduação em Economia (PPGE/UFPB), cursada em 2026.
 
 Os resumos são produzidos em Markdown com equações em LaTeX e figuras geradas em R, seguindo um padrão modular de organização por aula.
 
